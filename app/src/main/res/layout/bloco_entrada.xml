@@ -14,7 +14,8 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:id="@+id/et_valor_reais"
-        android:hint="Ex.: 45,00"/>
+        android:hint="Ex.: 45,00"
+        android:inputType="numberDecimal"/>
 
     <Button
         android:layout_width="match_parent"
